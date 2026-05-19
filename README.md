@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 👋   <br>
+
+I'm Serena...
 
 
-**Serena080/Serena080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 # 💫 About Me:
 Aspiring frontend and potentially proficient in fullstack development.<br><br>Intelligent creative...
